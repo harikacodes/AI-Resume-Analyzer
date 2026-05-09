@@ -1,0 +1,10 @@
+streamlit
+python-docx
+PyPDF2
+Pillow
+pytesseract
+transformers
+torch
+pandas
+plotly
+reportlab
